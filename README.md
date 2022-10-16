@@ -33,12 +33,23 @@ https://github.com/VoDuyThienVinh/AnimatedTemplate
 https://voduythienvinh.github.io/AnimatedTemplate/
 ```
 
-## 6. Information 
+## 6. Resource Information 
 
-<https://www.creative-tim.com/learning-lab/tailwind-starter-kit/landing>
+[HTML Formatter](https://htmlformatter.com/)
 
-<https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/#use_async_or_defer>
+[Creative Tim Template](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 
+[FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free)
+
+[Unsplash Images](https://unsplash.com/)
+
+[Random User Images](https://randomuser.me/)
+
+[Animate on Scroll Library](https://michalsnik.github.io/aos/)
+
+[Google - Loading Third Party Script](https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/)
+
+[Async, Defer Visualized](https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/#use_async_or_defer)
 ## Adapted From: 😉
 
 Udemy Course: JavaScript Web Projects: 20 Projects to Build Your Portfolio
